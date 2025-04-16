@@ -36,7 +36,7 @@ You can use a similar dataset available on [Kaggle](https://www.kaggle.com/datas
 
 ### Example Dataset:
 For the purpose of this project, we recommend using the following dataset:
-- loan_prediction.csv
+loan_prediction.csv
 
 ## Requirements
 To run this project, you'll need to install the following Python libraries:
